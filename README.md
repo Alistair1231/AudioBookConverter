@@ -50,7 +50,7 @@ Main features:
 If you looking for safe option to install better tested software from trusted source and get automatic incremental updates use <a href="https://store.steampowered.com/app/1529240/AudioBookConverter/">Steam</a> 
 ======
 
-alternatively look at <a href="https://community.chocolatey.org/packages/audiobookconverter">Chocolaty</a>
+alternatively look at <a href="https://community.chocolatey.org/packages/audiobookconverter">Chocolatey</a>
 ----
 
 or just download <a href="https://github.com/yermak/AudioBookConverter/releases/latest">latest build</a>, no QuickTime or iTunes is required.
